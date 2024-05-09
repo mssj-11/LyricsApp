@@ -42,7 +42,6 @@ body::after {
     background-attachment: fixed;
     z-index: -1;
     transform: translateX(-50%);
-    
 }
 
 
@@ -103,10 +102,6 @@ form button {
     font-weight: 700;
     cursor: pointer;
     transition: all .3s;
-}
-
-form button:hover {
-    border: 1px solid #fff;
 }
 
 section .container {
